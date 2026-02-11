@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="group_stock_accounting_automatic" model="res.groups">
+        <field name="name">Automatic Stock Accounting</field>
+    </record>
+</odoo>
